@@ -1,0 +1,4 @@
+.idea/
+.env
+!/storage/logs/
+go-monitor
